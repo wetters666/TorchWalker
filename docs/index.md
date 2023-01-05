@@ -10,8 +10,8 @@ Discordのメモと正式な仕様書の中間くらいの備忘録。
 
 ## 目次
 
-- [ルール・手順](./procedure/)
-- [仕様書](./spec/)
+- [ルール・手順](./procedure/index.md)
+- [仕様書](./spec/index.md)
 
 ## 更新履歴
 
