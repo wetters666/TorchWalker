@@ -12,6 +12,5 @@
 - [公開セーブ](./basic/public_save.md)
 - [ピクセルパーフェクトカメラおよび固定解像度](./basic/pixel_perfect.md)
 
-## グラフィック
+## [グラフィック](./graphics/index.md)
 
-- [Smart Lighting 2Dについて](./graphics/smart_lighting_2d.md)

@@ -1,8 +1,9 @@
 # Folder to build
 Builds/
 
-# External Datasheets
+# External Datasheets and Manuals
 datasheets/
+manuals/
 
 # Sample Projects
 SmartLighting2DTest/
